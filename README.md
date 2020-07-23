@@ -1,2 +1,2 @@
 # cookiecutter
-Cookiecutter templates for various tyeps of projects.
+Cookiecutter templates for various types of projects.
