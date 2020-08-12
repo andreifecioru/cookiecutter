@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+from {{cookiecutter.package.name}}.api import math
+
+
+if __name__ == '__main__':
+    print(f"1 + 1 = {math.sum(1, 1)}")

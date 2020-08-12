@@ -1,0 +1,14 @@
+{
+  "project_name": "blueprint",
+
+  "package": {
+    "name": "BlueprintPy",
+    "description": "Python package template project.",
+    "cli_script": "blueprint-cli"
+  },
+
+  "author": {
+    "name": "Andrei Fecioru",
+    "email": "andrei.fecioru@gmail.com"
+  }
+}
